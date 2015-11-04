@@ -6,8 +6,11 @@ Credits
 =======
 
 I forked the https://github.com/mliu7/latex-moderncv.
-Latex is a typesetting program, frequently used in math and computer science academia. See http://www.latex-project.org/
-Some additional resume templates can be found at http://linuxandfriends.com/2009/12/28/latex-resume-templates/
+
+Latex is a typesetting program. See http://www.latex-project.org/
+
+Some additional latex resume templates can be found at http://linuxandfriends.com/2009/12/28/latex-resume-templates/
+
 The moderncv template is contributed by Xavier Danaux and can be downloaded here: http://tug.ctan.org/tex-archive/macros/latex/contrib/moderncv/
 
 Prerequisites
