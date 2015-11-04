@@ -28,6 +28,13 @@
 \phone[mobile]{+44 7857773182}                    % optional, remove the line if not wanted
 \email{r.kozikowski@gmail.com}                      % optional, remove the line if not wanted
 \homepage{kozikow.wordpress.com}                % optional, remove the line if not wanted
+
+\definecolor{CadetBlue}{RGB}{58,128,179}
+% color hyperlinks
+\AtBeginDocument{
+    \hypersetup{colorlinks,urlcolor=CadetBlue}
+}
+
 %\extrainfo{\url{http://markliu.me}} % optional, remove the line if not wanted
 
 % to show numerical labels in the bibliography; only useful if you make citations in your resume
@@ -79,11 +86,12 @@ Added a new feature to distributed database used in the Bing search engine
 \cventry{2009 - 2012}{BSc, Computer Science}{University of Warsaw}{}{}{}
 
 \section{Highly proficient with}
-\cvline{languages}{Java, Python, C++, C, JavaScript, Scala}
-\cvline{technologies}{Android, data science (Python based) and machine learning, performance optimization, algorithms and data structures, monitoring}
+\cvline{Languages}{Java, Python, C++, C, JavaScript, Scala}
+\cvline{Technologies}{Android, data science (Python based) and machine learning, performance optimization, algorithms and data structures, monitoring}
 
 \section{Other}
-\cvline{Programming Contests}{81th place on Google Code Jam 2010, Bronze medal in Polish olympiad in informatics 2009, successes and many problems solved on ACP ICPC, TopCoder, Hackerrank, etc.}
+\cvline{Programming Contests}{
+  \httplink[81th place on Google Code Jam 2010]{code.google.com/codejam/contest/639102/scoreboard\#sp=61}, Bronze medal in Polish olympiad in informatics 2009, successes and many problems solved on ACP ICPC, TopCoder, Hackerrank, etc.}
 \cvline{Publications}{Applications of algorithms in programming contests, ISBN 978-83-930856-3-7 (Co-author with Jacek Tomasiewicz)}
 
 \end{document}
