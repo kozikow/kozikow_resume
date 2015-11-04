@@ -5,6 +5,8 @@ Here you can find mine (Robert Kozikowski) resume, including tex and pdf.
 Prerequisites
 =============
 
+You need to have latex and moderncv packages installed.
+
 OSX installation instructions::
 
   brew cask install mactex
@@ -13,7 +15,7 @@ OSX installation instructions::
 Compiling the Resume
 ====================
 
-Simply use the ``pdflatex`` command in your terminal::
+Use the ``pdflatex`` command in your terminal::
 
   pdflatex my-resume.tex
 
