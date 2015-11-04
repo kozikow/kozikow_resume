@@ -5,7 +5,7 @@ Here you can find mine (Robert Kozikowski) resume, including tex and pdf.
 Prerequisites
 =============
 
-You need to have latex and moderncv packages installed.
+You need to have latex, including moderncv package installed.
 
 OSX installation instructions::
 
