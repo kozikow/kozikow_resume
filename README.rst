@@ -17,7 +17,7 @@ Compiling the Resume
 
 Use the ``pdflatex`` command in your terminal::
 
-  pdflatex my-resume.tex
+  pdflatex kozikow_resume.tex
 
 Credits
 =======
