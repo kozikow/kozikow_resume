@@ -12,32 +12,32 @@
 * Experience
 ** Software engineer at Google Search
 *** 2015 - 2016
-Data expert at Android Google Search.
+Data expert at Android Google Search
 - Data analysis and ETL pipelines
 - Data collection and processing infrastructure
-- Monitoring
+- Monitoring and alerting
 ** Software engineer at Google Compare
 *** 2014 
-Full stack engineer focused on data processing.
+Full stack engineer focused on data processing
 - Full stack engineering
 - Ranking Google Compare products using machine learning
 - Data processing infrastructure
 ** Software engineer at Facebook
 *** 2013
-Data driven improvement of Facebook android app.
+Data driven improvement of Facebook android app
 - Performance optimization
 - Data analysis
 ** Intern at Google
 *** 2012
-Built web based data analysis tool.
+Built web based data analysis tool
 ** Intern at Microsoft
 *** 2011
-Distributed database engineering at Bing.
+Distributed database engineering at Bing
 * Education
 ** Warsaw University, 2009-2012
-Bachelor degree, computer science.
+Bachelor degree, computer science
 * Programming contests
-Regularly practicing algorithmic programming contests since I was 13 years old.
+Regularly practicing and succeeding at algorithmic programming contests since I was 13 years old. Highlights:
 ** Google Code Jam
 [[http://code.google.com/codejam/contest/639102/scoreboard#sp=61][81th place at Google Code Jam 2010]]
 ** Olympiad of informatics
