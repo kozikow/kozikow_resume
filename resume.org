@@ -44,9 +44,9 @@ Regularly practicing and succeeding at algorithmic programming contests since I 
 Bronze medal at Polish olympiad in informatics 2009
 * Skills
 ** Programming Languages
-Java 10, Python 9, JavaScript 8, C++ 7, Go 6, many others <6
+Java 10, Python 9, JavaScript 8, Elisp 8, C++ 7, Go 6, many others <6
 ** Technologies
-Algorithms 10, Android 10, Distributed computing and orchestration 9, DevOps 8, SQL 8, front-end 7, data engineering 7, data science 6
+Algorithms 10, Android 10, Emacs 10, Distributed computing and orchestration 9, DevOps 8, SQL 8, front-end 7, data engineering 7, data science 6
 * Publications
 ** Applications of algorithms in programming contests
 ISBN 978-83-930856-3-7 
