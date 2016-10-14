@@ -12,16 +12,16 @@
 * Experience
 ** Software engineer at Google Search
 *** 2015 - 2016
-Data expert at Android Google Search
+Data expert at Google Search focused on Android app
 - Data analysis and ETL pipelines
 - Data collection and processing infrastructure
 - Monitoring and alerting
 ** Software engineer at Google Compare
 *** 2014 
 Full stack engineer focused on data processing
-- Full stack engineering
 - Ranking Google Compare products using machine learning
 - Data processing infrastructure
+- Reporting and data analysis web frontend
 ** Software engineer at Facebook
 *** 2013
 Data driven improvement of Facebook android app
