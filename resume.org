@@ -1,0 +1,53 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+
+{{{HEADER}}}
+
+* Experience
+** Software engineer at Google Search
+*** 2015 - 2016
+Data expert at Android Google Search.
+- Data analysis and ETL pipelines
+- Data collection and processing infrastructure
+- Monitoring
+** Software engineer at Google Compare
+*** 2014 
+Full stack engineer focused on data processing.
+- Full stack engineering
+- Ranking Google Compare products using machine learning
+- Data processing infrastructure
+** Software engineer at Facebook
+*** 2013
+Data driven improvement of Facebook android app.
+- Performance optimization
+- Data analysis
+** Intern at Google
+*** 2012
+Built web based data analysis tool.
+** Intern at Microsoft
+*** 2011
+Distributed database engineering at Bing.
+* Education
+** Warsaw University, 2009-2012
+Bachelor degree, computer science.
+* Programming contests
+Regularly practicing algorithmic programming contests since I was 13 years old.
+** Google Code Jam
+[[http://code.google.com/codejam/contest/639102/scoreboard#sp=61][81th place at Google Code Jam 2010]]
+** Olympiad of informatics
+Bronze medal at Polish olympiad in informatics 2009
+* Publications
+** Applications of algorithms in programming contests
+ISBN 978-83-930856-3-7 
+Co-author with Jacek Tomasiewicz
+* Skills
+** Programming Languages
+Java 10, Python 9, JavaScript 8, C++ 7, Go 6, many others <6
+** Technologies
+Algorithms 10, Android 10, Distributed computing and orchestration 9, DevOps 8, SQL 8, front-end 7, data engineering 7, data science 6

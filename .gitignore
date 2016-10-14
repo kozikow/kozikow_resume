@@ -3,3 +3,6 @@
 *.out
 *.swp
 *~
+/_minted*
+
+*.tex
