@@ -1,7 +1,7 @@
 #+MACRO: FIRST    Robert
 #+MACRO: LAST     Kozikowski
 #+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
-#+MACRO: BLOG     http://kozikow.com
+#+MACRO: BLOG     kozikow.com
 #+MACRO: EMAIL    r.kozikowski@gmail.com
 #+MACRO: PHONE    +44 7857 773 182
 #+MACRO: CODE     https://github.com/kozikow
