@@ -42,12 +42,12 @@ Regularly practicing and succeeding at algorithmic programming contests since I 
 [[http://code.google.com/codejam/contest/639102/scoreboard#sp=61][81th place at Google Code Jam 2010]]
 ** Olympiad of informatics
 Bronze medal at Polish olympiad in informatics 2009
-* Publications
-** Applications of algorithms in programming contests
-ISBN 978-83-930856-3-7 
-Co-author with Jacek Tomasiewicz
 * Skills
 ** Programming Languages
 Java 10, Python 9, JavaScript 8, C++ 7, Go 6, many others <6
 ** Technologies
 Algorithms 10, Android 10, Distributed computing and orchestration 9, DevOps 8, SQL 8, front-end 7, data engineering 7, data science 6
+* Publications
+** Applications of algorithms in programming contests
+ISBN 978-83-930856-3-7 
+Co-author with Jacek Tomasiewicz
