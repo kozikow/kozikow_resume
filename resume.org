@@ -40,9 +40,11 @@ Bachelor degree, computer science
 * Programming contests
 Regularly practicing and succeeding at algorithmic programming contests since I was 13 years old. Highlights:
 ** Google Code Jam
-[[http://code.google.com/codejam/contest/639102/scoreboard#sp=61][81th place at Google Code Jam 2010]]
+*** 2010
+[[http://code.google.com/codejam/contest/639102/scoreboard#sp=61][81th place at Google Code Jam]]
 ** Olympiad of informatics
-Bronze medal at Polish olympiad in informatics 2009
+*** 2009
+Bronze medal at Polish olympiad in informatics
 * Skills
 ** Programming Languages
 Java 10, Python 9, JavaScript 8, Elisp 8, C++ 7, Go 6, many others <6
