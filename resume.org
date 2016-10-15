@@ -34,7 +34,8 @@ Built web based data analysis tool
 *** 2011
 Distributed database engineering at Bing
 * Education
-** Warsaw University, 2009-2012
+** Warsaw University
+*** 2009-2012
 Bachelor degree, computer science
 * Programming contests
 Regularly practicing and succeeding at algorithmic programming contests since I was 13 years old. Highlights:
